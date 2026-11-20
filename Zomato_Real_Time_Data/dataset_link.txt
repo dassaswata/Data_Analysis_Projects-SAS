@@ -1,3 +1,4 @@
 zomato_rest_data.xlsx
 link:
 https://docs.google.com/spreadsheets/d/1eTE1nYggJFVjPCC9-6WtBvdCvtUOD5TQ/edit?usp=sharing&ouid=110205140902350655753&rtpof=true&sd=true
+If problem happens use thsi -->  encoding='latin1', engine='python', on_bad_lines='skip'
